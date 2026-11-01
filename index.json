@@ -1,0 +1,29 @@
+{
+  "name": "SakuraWine VPM",
+  "id": "io.github.sakurawine.vpm",
+  "url": "https://sakurawine.github.io/vpm/index.json",
+  "author": "SakuraWine",
+  "packages": {
+    "io.github.sakurawine.ma-shapesync-auto": {
+      "versions": {
+        "0.1.0": {
+          "name": "io.github.sakurawine.ma-shapesync-auto",
+          "displayName": "MA Shape Sync Auto",
+          "version": "0.1.0",
+          "unity": "2022.3",
+          "description": "衣装のメッシュに、アバターのボディと共通するシェイプキーの Modular Avatar Blendshape Sync を自動で設定します。",
+          "license": "MIT",
+          "author": {
+            "name": "SakuraWine",
+            "url": "https://github.com/SakuraWine"
+          },
+          "vpmDependencies": {
+            "nadena.dev.modular-avatar": ">=1.18.0 <2.0.0-a"
+          },
+          "url": "https://github.com/SakuraWine/ma-shapesync-auto/releases/download/v0.1.0/io.github.sakurawine.ma-shapesync-auto-0.1.0.zip",
+          "zipSHA256": "0fb6994fe30716943995e63a5681dd58b45351d52ab534690dbb49cd7756f357"
+        }
+      }
+    }
+  }
+}
